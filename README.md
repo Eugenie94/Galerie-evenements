@@ -8,7 +8,7 @@ Ce projet a été créer à partir des technologies suivantes :
 - CSS3
 - JavaScript
 
-Url du projet : https://eugenie94.github.io/Galerie-evenements/
+Url du projet : https://galerie-evenements-eugenie.netlify.app/
 
 -------------------------------------------------- Aperçu de la galerie --------------------------------------------------
 
